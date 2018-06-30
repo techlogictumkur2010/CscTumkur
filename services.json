@@ -2,7 +2,7 @@
 	{
 		"id":"501",
 		"title": "PAN Card Service",
-		"imageUrl": "http://csctumkur.com/cscapp/services/images/pancard.jpg",
+		"imageUrl": "http://csctumkur.com/cscapp/services/images/pancard.png",
 		"price": "110",
 		"convinience": "900",
 		"description": "Permanent Account Number or PAN, as it is commonly called, is a means of identifying various taxpayers in the country."
@@ -10,10 +10,10 @@
 	{
 		"id":"502",
 		"title": "e-Aadhaar Print",
-		"imageUrl": "https://lh3.googleusercontent.com/3w0neXbSlI4p6mtkRdwL7SwRH4NKHmmdBm1n58tNvUnV0DwnxZ6MfIwzSz0c7MlE3NZku1TmQAQm-4Tly6geteQpONOniM_m",
+		"imageUrl": "http://csctumkur.com/cscapp/services/images/aadhaar.png",
 		"price": "110",
 		"convinience": "900",
-		"description": "Looks can be deceiving. This Red Popsicle comes in a wide variety of flavors, including strawberry, that burst as soon as it hits the mouth. Red Popsicles melt slow, so savor the flavor."
+		"description": "Residents can get the electronic copy of their Aadhaar by providing their EID or UID."
 	},
    {  
       "id":"503",
