@@ -16,7 +16,7 @@
 				    	"Proof of Address",
 				    	"Proof of Date of Birth"
 					],
-        	"door_step": true,
+        	"door_step": true
 	},
 	{
 		"id": 502,
@@ -35,18 +35,18 @@
 				    	"Proof of Address",
 				    	"Proof of Date of Birth"
 					],
-        	"door_step": false,
+        	"door_step": false
 	},
 	{  
 		"id": 503,
 		"imageUrl":"http://velmm.com/images/bottom_navigationview/dunkirk.jpg",
 		"title":"Dunkirk"
 	},
-   {  
-      "id": 504,
-      "imageUrl":"http://velmm.com/images/bottom_navigationview/the_salesman.jpg",
-      "title":"The Salesman"
-   },
+	{  
+		"id": 504,
+		"imageUrl":"http://velmm.com/images/bottom_navigationview/the_salesman.jpg",
+		"title":"The Salesman"
+	},
    {  
       "id": 505,
       "imageUrl":"http://velmm.com/images/bottom_navigationview/lion.png",
