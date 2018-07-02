@@ -24,7 +24,18 @@
 		"imageUrl": "https://lh3.googleusercontent.com/3w0neXbSlI4p6mtkRdwL7SwRH4NKHmmdBm1n58tNvUnV0DwnxZ6MfIwzSz0c7MlE3NZku1TmQAQm-4Tly6geteQpONOniM_m",
 		"price": 125,
 		"convenience": 70,
-		"description": "Looks can be deceiving. This Red Popsicle comes in a wide variety of flavors, including strawberry, that burst as soon as it hits the mouth. Red Popsicles melt slow, so savor the flavor."
+		"description": "Looks can be deceiving. This Red Popsicle comes in a wide variety of flavors, including strawberry, that burst as soon as it hits the mouth. Red Popsicles melt slow, so savor the flavor.",
+		"services_offered": [
+				    "New Pan Card",
+				    "Correction/Changes in PAN Card",
+				    "Duplicate/Lost PAN Card"
+				],
+		"documents_required": [
+				    	"Proof of Identity",
+				    	"Proof of Address",
+				    	"Proof of Date of Birth"
+					],
+        	"door_step": false,
 	},
 	{  
 		"id": 503,
