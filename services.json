@@ -16,7 +16,7 @@
 				    	"Proof of Address",
 				    	"Proof of Date of Birth"
 					],
-        	"door_step": 1,
+        	"door_step": true,
 	},
 	{
 		"id": 502,
