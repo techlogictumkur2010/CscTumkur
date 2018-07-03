@@ -16,7 +16,8 @@
 				    	"Proof of Address",
 				    	"Proof of Date of Birth"
 					],
-        	"door_step": true
+        	"door_step": true,
+		"category": [1001, 1002]
 	},
 	{
 		"id": 502,
