@@ -40,42 +40,42 @@
 	},
 	{  
 		"id": 503,
-		"imageUrl":"http://velmm.com/images/bottom_navigationview/dunkirk.jpg",
-		"title":"Dunkirk"
+		"imageUrl":"http://csctumkur.com/cscapp/services/images/jobs.png",
+		"title":"Job Oppertunities"
 	},
 	{  
 		"id": 504,
-		"imageUrl":"http://velmm.com/images/bottom_navigationview/the_salesman.jpg",
-		"title":"The Salesman"
+		"imageUrl":"http://csctumkur.com/cscapp/services/images/rationcard.png",
+		"title":"Ration card Apply"
 	},
    {  
       "id": 505,
-      "imageUrl":"http://velmm.com/images/bottom_navigationview/lion.png",
-      "title":"Lion"
+      "imageUrl":"http://csctumkur.com/cscapp/services/images/pmay.png",
+      "title":"Agriculture/Crop Insurance"
    },
    {  
       "id": 506,
-      "imageUrl":"http://velmm.com/images/bottom_navigationview/star_war.jpg",
-      "title":"Star Wars: The Last Jedi"
+      "imageUrl":"http://csctumkur.com/cscapp/services/images/sbi.png",
+      "title":"SBI Savings Account opening"
    },
    {  
       "id": 507,
-      "imageUrl":"http://velmm.com/images/bottom_navigationview/thor_ragnarok.jpg",
-      "title":"Thor: Ragnarok"
+      "imageUrl":"http://csctumkur.com/cscapp/services/images/pmgdisha.png",
+      "title":"PMGDISHA"
    },
    {  
       "id": 508,
-      "imageUrl":"http://velmm.com/images/bottom_navigationview/blade_runner_2049.jpg",
-      "title":"Blade Runner 2049"
+      "imageUrl":"http://csctumkur.com/cscapp/services/images/itrfiling.png",
+      "title":"ITR Filing"
    },
    {  
       "id": 509,
-      "imageUrl":"http://velmm.com/images/bottom_navigationview/borg_mcenroe.jpg",
-      "title":"Borg McEnroe"
+      "imageUrl":"http://csctumkur.com/cscapp/services/images/nps.png",
+      "title":"National Pension Scheme"
    },
    {  
       "id": 5010,
-      "imageUrl":"http://velmm.com/images/bottom_navigationview/wonder.jpg",
-      "title":"Wonder"
+      "imageUrl":"http://csctumkur.com/cscapp/services/images/sevasindhu.png",
+      "title":"Seva Sindhu"
    }
 ]
