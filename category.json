@@ -1,32 +1,38 @@
 [  
 	{
 		"id": 1001,
-		"title": "Aadhaar",
-		"imageUrl": "https://lh3.googleusercontent.com/3w0neXbSlI4p6mtkRdwL7SwRH4NKHmmdBm1n58tNvUnV0DwnxZ6MfIwzSz0c7MlE3NZku1TmQAQm-4Tly6geteQpONOniM_m",
-		"description": "Category Description"
+		"title": "Aadhaar Services",
+		"imageUrl": "http://www.csctumkur.com/cscapp/categories/aadhaar.jpg",
+		"description": "Unique Identification Authority of India (UIDAI) provides Aadhaar services that are not limited to issuing Aadhaar number to the Indian residents"
 	},
 	{
 		"id": 1002,
-		"title": "Jobs",
-		"imageUrl": "https://lh3.googleusercontent.com/3w0neXbSlI4p6mtkRdwL7SwRH4NKHmmdBm1n58tNvUnV0DwnxZ6MfIwzSz0c7MlE3NZku1TmQAQm-4Tly6geteQpONOniM_m",
-		"description": "Category Description"
+		"title": "Job Notifications",
+		"imageUrl": "http://www.csctumkur.com/cscapp/categories/jobs.jpg",
+		"description": "Job Opportunities and Online Applications"
 	},
 	{
 		"id": 1003,
-		"title": "Admission Ticket",
-		"imageUrl": "https://lh3.googleusercontent.com/3w0neXbSlI4p6mtkRdwL7SwRH4NKHmmdBm1n58tNvUnV0DwnxZ6MfIwzSz0c7MlE3NZku1TmQAQm-4Tly6geteQpONOniM_m",
-		"description": "Category Description"
+		"title": "Education",
+		"imageUrl": "http://www.csctumkur.com/cscapp/categories/education.jpg",
+		"description": "Education is the process of facilitating learning, or the acquisition of knowledge, skills, values, beliefs, and habits."
 	},
 	{
 		"id": 1004,
-		"title": "Schools/College",
-		"imageUrl": "https://lh3.googleusercontent.com/3w0neXbSlI4p6mtkRdwL7SwRH4NKHmmdBm1n58tNvUnV0DwnxZ6MfIwzSz0c7MlE3NZku1TmQAQm-4Tly6geteQpONOniM_m",
-		"description": "Category Description"
+		"title": "Bharat Bill Payment System",
+		"imageUrl": "http://www.csctumkur.com/cscapp/categories/bbps.jpg",
+		"description": "Bharat Bill Payment System eases the payment of bills and improves the security & speed of bill pay. "
 	},
 	{
 		"id": 1005,
-		"title": "Scholerships",
-		"imageUrl": "https://lh3.googleusercontent.com/3w0neXbSlI4p6mtkRdwL7SwRH4NKHmmdBm1n58tNvUnV0DwnxZ6MfIwzSz0c7MlE3NZku1TmQAQm-4Tly6geteQpONOniM_m",
-		"description": "Category Description"
+		"title": "Pradhan Manthri Schemes",
+		"imageUrl": "http://www.csctumkur.com/cscapp/categories/pradhanmanthrischeme.jpg",
+		"description": "The ministries of the Government of India have come up with various useful schemes from time to time. These schemes could be either Central, state specific or joint collaboration between the Centre and the states. They are detailed below:"
+	},
+	{
+		"id": 1006,
+		"title": "Goverment of Karnataka Services",
+		"imageUrl": "http://www.csctumkur.com/cscapp/categories/govtofkarnataka.jpg",
+		"description": "Welcome to Karnataka Sakala Services Sakala Online Services"
 	}
 ]
