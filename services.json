@@ -2,7 +2,7 @@
 	{
 		"id": 501,
 		"title": "PAN Card Service",
-		"imageUrl": "http://csctumkur.com/cscapp/services/images/pancard.png",
+		"imageUrl": "http://csctumkur.com/cscapp/services/images/pancard.jpg",
 		"price": 110,
 		"convenience": 90,
 		"description": "Permanent Account Number or PAN, as it is commonly called, is a means of identifying various taxpayers in the country. PAN is a unique identification number assigned to Indians, mostly to those who pay tax. Any PAN issued is valid for the entire lifetime of the PAN holder. This is so majorly because PAN is unaffected by any change of address of the PAN cardholder.",
@@ -22,7 +22,7 @@
 	{
 		"id": 502,
 		"title": "e-Aahdhaar Print",
-		"imageUrl": "http://csctumkur.com/cscapp/services/images/aadhaar.png",
+		"imageUrl": "http://csctumkur.com/cscapp/services/images/aadhaar.jpg",
 		"price": 125,
 		"convenience": 70,
 		"description": "Looks can be deceiving. This Red Popsicle comes in a wide variety of flavors, including strawberry, that burst as soon as it hits the mouth. Red Popsicles melt slow, so savor the flavor.",
@@ -40,42 +40,42 @@
 	},
 	{  
 		"id": 503,
-		"imageUrl":"http://csctumkur.com/cscapp/services/images/jobs.png",
+		"imageUrl":"http://csctumkur.com/cscapp/services/images/jobs.jpg",
 		"title":"Job Oppertunities"
 	},
 	{  
 		"id": 504,
-		"imageUrl":"http://csctumkur.com/cscapp/services/images/rationcard.png",
+		"imageUrl":"http://csctumkur.com/cscapp/services/images/rationcard.jpg",
 		"title":"Ration card Apply"
 	},
    {  
       "id": 505,
-      "imageUrl":"http://csctumkur.com/cscapp/services/images/pmay.png",
+      "imageUrl":"http://csctumkur.com/cscapp/services/images/pmfby.jpg",
       "title":"Agriculture/Crop Insurance"
    },
    {  
       "id": 506,
-      "imageUrl":"http://csctumkur.com/cscapp/services/images/sbi.png",
+      "imageUrl":"http://csctumkur.com/cscapp/services/images/sbi.jpg",
       "title":"SBI Savings Account opening"
    },
    {  
       "id": 507,
-      "imageUrl":"http://csctumkur.com/cscapp/services/images/pmgdisha.png",
+      "imageUrl":"http://csctumkur.com/cscapp/services/images/pmgdisha.jpg",
       "title":"PMGDISHA"
    },
    {  
       "id": 508,
-      "imageUrl":"http://csctumkur.com/cscapp/services/images/itrfiling.png",
+      "imageUrl":"http://csctumkur.com/cscapp/services/images/itrfiling.jpg",
       "title":"ITR Filing"
    },
    {  
       "id": 509,
-      "imageUrl":"http://csctumkur.com/cscapp/services/images/nps.png",
+      "imageUrl":"http://csctumkur.com/cscapp/services/images/nps.jpg",
       "title":"National Pension Scheme"
    },
    {  
       "id": 5010,
-      "imageUrl":"http://csctumkur.com/cscapp/services/images/sevasindhu.png",
+      "imageUrl":"http://csctumkur.com/cscapp/services/images/sevasindhu.jpg",
       "title":"Seva Sindhu"
    }
 ]
