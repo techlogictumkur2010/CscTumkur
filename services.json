@@ -41,41 +41,49 @@
 	{  
 		"id": 503,
 		"imageUrl":"http://csctumkur.com/cscapp/services/images/jobs.jpg",
-		"title":"Job Oppertunities"
+		"title":"Job Oppertunities",
+		"description": "Job Search, Apply online, Admission ticket"
 	},
 	{  
 		"id": 504,
 		"imageUrl":"http://csctumkur.com/cscapp/services/images/rationcard.jpg",
-		"title":"Ration card Apply"
+		"title":"Ration card Apply",
+		"description": "Department of Food and Civil Supplies"
 	},
-   {  
-      "id": 505,
-      "imageUrl":"http://csctumkur.com/cscapp/services/images/pmfby.jpg",
-      "title":"Agriculture/Crop Insurance"
-   },
-   {  
-      "id": 506,
-      "imageUrl":"http://csctumkur.com/cscapp/services/images/sbi.jpg",
-      "title":"SBI Savings Account opening"
-   },
-   {  
-      "id": 507,
-      "imageUrl":"http://csctumkur.com/cscapp/services/images/pmgdisha.jpg",
-      "title":"PMGDISHA"
-   },
-   {  
-      "id": 508,
-      "imageUrl":"http://csctumkur.com/cscapp/services/images/itrfiling.jpg",
-      "title":"ITR Filing"
-   },
-   {  
-      "id": 509,
-      "imageUrl":"http://csctumkur.com/cscapp/services/images/nps.jpg",
-      "title":"National Pension Scheme"
-   },
-   {  
-      "id": 5010,
-      "imageUrl":"http://csctumkur.com/cscapp/services/images/sevasindhu.jpg",
-      "title":"Seva Sindhu"
-   }
+   	{  
+      		"id": 505,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/pmfby.jpg",
+      		"title":"Agriculture/Crop Insurance",
+	   	"description": "Pradhan Manthri Fasal Bhima Yojane"
+   	},
+   	{  
+	      	"id": 506,
+	      	"imageUrl":"http://csctumkur.com/cscapp/services/images/sbi.jpg",
+	      	"title":"SBI Savings Account opening",
+		"description": "Instant Account Opening at SBI bank any Branch in India"
+   	},
+   	{  
+     		"id": 507,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/pmgdisha.jpg",
+    		"title":"PMGDISHA",
+	   	"description": "Pradhan Mantri Gramin Digital Saksharta Abhiyan"
+   	},
+  	{  
+      		"id": 508,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/itrfiling.jpg",
+      		"title":"ITR Filing",
+		"description": "Income tax return (ITR) filing deadline extended upto 31-08-2018"
+   	},
+   	{  
+      		"id": 509,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/nps.jpg",
+      		"title":"National Pension Scheme",
+	   	"description": "National Pension Scheme (NPS), a government-sponsored pension scheme"
+   	},
+   	{  
+      		"id": 5010,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/sevasindhu.jpg",
+     		"title":"Seva Sindhu",
+		"description": "e-District services under NeGP (National e Governance Plan), with the Department of Information Technology "
+   	}
 ]
