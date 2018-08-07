@@ -26,12 +26,12 @@
 		"price": 125,
 		"convenience": 70,
 		"description": "The UIDAI collects the biometric and demographic details of all the citizens and is stored in a centralized UID (Unique Identification Number) database. The UIDAI issues a 12-digit unique identification number that is called Aadhaar Card to Indian citizens." 
-		\n Once the Enrolment/Modification done by any Authorised Aadhaar Enrolment Centres/Banks/Post-offices etc.. It will take couple of days to approve your Aadhaar / changes. 
+		\n Once the Enrolment or Modification done by any Authorised Aadhaar Enrolment Centres/Banks/Post-offices etc.. It will take couple of days to approve your Aadhaar / changes. 
 		\n You can visit our Digital Seva Kendra to check the status at free of cost and once Aadhaar generated successfully you can get eAadhaar print here with good quality and best price.",
 		"services_offered": [
-				    "Check Status of Enrolment/Update of Aadhaar,
+				    "Check Status of Enrolment/Update of Aadhaar",
 				    "Change or Address (Only for mobile linked Aadhaar",
-				    "Download and print eAadhaar"
+				    "Download and print eAadhaar",
 				],
 		"documents_required": [
 				    	"Aadhaar Acknowledgement with registered mobile Number for eAadhaar Download",
@@ -68,7 +68,7 @@
 				],
 		"documents_required": [
 				    	"Aadhaar card for All Family Members",
-						"Caste and Income Certificate for head of family",
+					"Caste and Income Certificate for head of family",
 				],
 		"door_step": false
 	},
@@ -82,7 +82,7 @@
 		\n \n We are authorised to collect premium for all the seasons, you may submit application here for PMFBY scheme.  "
 		"services_offered": [
 					"Issuing Proposal form,
-				    "Collecting Premium,
+				    	"Collecting Premium,
 				],
 		"documents_required": [
 				    	"Proposal Form",
@@ -99,14 +99,14 @@
 	      	"title":"SBI Savings Account opening",
 		"description": "Instant Account Opening at SBI bank any Branch in India"
 		"services_offered": [
-				    "New Bank Account Opening,
-				    "Training on Digital Transaction",
-					"AEPS-Deposit",
-					"AEPS-Withdrawal",
+				 "New Bank Account Opening,
+				 "Training on Digital Transaction",
+				"AEPS-Deposit",
+				"AEPS-Withdrawal",
 				],
 		"documents_required": [
 				    	"Aadhaar card with mobile no liked",
-						"PAN Card",
+					"PAN Card",
 				],
 		"door_step": false
    	},
@@ -119,7 +119,7 @@
 		\n The project is expected to be one of the largest initiatives of the country with an overall target of training 6 crore students till the financial year, 2019. In order to be able to attain this large reach, the government has accepted 250,000 Gram Panchayats to register at least 200-300 candidates each. The ultimate aim is to span the gap between the rural and urban youth.
 		\n \n We are registered for Belagumba Gram Panchayat, if you are living in Belagumba panchayat area you can avail this free service offered through Digital Seva Kendra."
 		"services_offered": [
-				    "Computer Training,
+				    "Computer Training",
 				],
 		"documents_required": [
 				    	"Aadhaar card",
