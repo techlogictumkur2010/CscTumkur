@@ -5,7 +5,7 @@
 		"imageUrl": "http://csctumkur.com/cscapp/services/images/pancard.jpg",
 		"price": 110,
 		"convenience": 90,
-		"description": "Permanent Account Number or PAN, as it is commonly called, is a means of identifying various taxpayers in the country. PAN is a unique identification number assigned to Indians, mostly to those who pay tax. Any PAN issued is valid for the entire lifetime of the PAN holder. This is so majorly because PAN is unaffected by any change of address of the PAN cardholder.",
+		"description": "Permanent Account Number or PAN, as it is commonly called, is a means of identifying various taxpayers in the country. \n PAN is a unique identification number assigned to Indians, mostly to those who pay tax. Any PAN issued is valid for the entire lifetime of the PAN holder. This is so majorly because PAN is unaffected by any change of address of the PAN card holder.",
 		"services_offered": [
 				    "New Pan Card",
 				    "Correction/Changes in PAN Card",
@@ -25,65 +25,144 @@
 		"imageUrl": "http://csctumkur.com/cscapp/services/images/aadhaar.jpg",
 		"price": 125,
 		"convenience": 70,
-		"description": "Looks can be deceiving. This Red Popsicle comes in a wide variety of flavors, including strawberry, that burst as soon as it hits the mouth. Red Popsicles melt slow, so savor the flavor.",
+		"description": "The UIDAI collects the biometric and demographic details of all the citizens and is stored in a centralized UID (Unique Identification Number) database. The UIDAI issues a 12-digit unique identification number that is called Aadhaar Card to Indian citizens." 
+		\n Once the Enrolment/Modification done by any Authorised Aadhaar Enrolment Centres/Banks/Post-offices etc.. It will take couple of days to approve your Aadhaar / changes. 
+		\n You can visit our Digital Seva Kendra to check the status at free of cost and once Aadhaar generated successfully you can get eAadhaar print here with good quality and best price.",
 		"services_offered": [
-				    "New Pan Card",
-				    "Correction/Changes in PAN Card",
-				    "Duplicate/Lost PAN Card"
+				    "Check Status of Enrolment/Update of Aadhaar,
+				    "Change or Address (Only for mobile linked Aadhaar",
+				    "Download and print eAadhaar"
 				],
 		"documents_required": [
-				    	"Proof of Identity",
-				    	"Proof of Address",
-				    	"Proof of Date of Birth"
-					],
+				    	"Aadhaar Acknowledgement with registered mobile Number for eAadhaar Download",
+				    	"Proof of Address in Original for Address change",
+				],
         	"door_step": false
 	},
 	{  
 		"id": 503,
 		"imageUrl":"http://csctumkur.com/cscapp/services/images/jobs.jpg",
-		"title":"Job Oppertunities",
-		"description": "Job Search, Apply online, Admission ticket"
+		"title":"Job Opportunities",
+		"description": "Are you looking for Latest Job Opportunities  to apply online to Get Central & State Govt Jobs. Notification of all Government Jobs , latest Govt vacancies across India updated frequently at Digital Seva Kendra. Upcoming vacancies across States in various sectors like Banking , Government, Defence, Railway, Teaching, Financial Institutions, Colleges, Universities & Schools, SSC, UPSC, KPSC, Agriculture, Karnataka Police, Navy and many more.
+		\n You may Apply here for any online Job application. Get Register with Digital Seva Kendra for SMS notification, if any notification releases for your qualification we try to reach you with latest information regarding job opportunities."
+		"services_offered": [
+				    "Online Application Submission,
+				    "Admission Letter/Call Letter Printout",
+				],
+		"documents_required": [
+				    	"All Original educational Qualification certificates, Photo, Caste Income certificate, Study Certificate etc...  ",
+				],
+		"door_step": false
 	},
 	{  
 		"id": 504,
 		"imageUrl":"http://csctumkur.com/cscapp/services/images/rationcard.jpg",
 		"title":"Ration card Apply",
-		"description": "Department of Food and Civil Supplies"
+		"description": "We are offering e Services of Department of Food and Civil Supplies services you may apply APL/BPL Ration card for any location in Karnataka State."
+		"services_offered": [
+				    "New Ration Card APL/BPL,
+				    "Addition/Deletion/Update/Amendment of Existing Ration Card",
+					"Aadhaar Linking for Ration Card members",
+					"Issue of Biometric authenticated Food Coupon",
+					"Ration Card Status",
+				],
+		"documents_required": [
+				    	"Aadhaar card for All Family Members",
+						"Caste and Income Certificate for head of family",
+				],
+		"door_step": false
 	},
    	{  
       		"id": 505,
       		"imageUrl":"http://csctumkur.com/cscapp/services/images/pmfby.jpg",
       		"title":"Agriculture/Crop Insurance",
-	   	"description": "Pradhan Manthri Fasal Bhima Yojane"
+	   	"description": "The Scheme implemented through a multi-agency framework by selected insurance companies under the overall guidance & control of the Department of Agriculture, Cooperation & Farmers Welfare (DAC&FW), Ministry of Agriculture & Farmers Welfare (MoA&FW), Government of India (GOI) and the concerned State in co-ordination with various other agencies; viz Financial Institutions like Commercial Banks, Co-operative Banks, Regional Rural Banks and their regulatory bodies, Government Departments viz. Agriculture, Co-operation, Horticulture, Statistics, Revenue, Information/Science & Technology, Panchayati Raj etc.
+		\n \n This scheme implemented to protect Formers from crop loss due to natural disasters.
+		\n Seasons - Kharif, Rabi, Summer
+		\n \n We are authorised to collect premium for all the seasons, you may submit application here for PMFBY scheme.  "
+		"services_offered": [
+					"Issuing Proposal form,
+				    "Collecting Premium,
+				],
+		"documents_required": [
+				    	"Proposal Form",
+						"RTC / latest Pahani",
+						"RTC Owner Aadhaar Card",
+						"RTC Owner Bank Passbook",
+						"Crop Certification if available",
+				],
+		"door_step": false
    	},
    	{  
 	      	"id": 506,
 	      	"imageUrl":"http://csctumkur.com/cscapp/services/images/sbi.jpg",
 	      	"title":"SBI Savings Account opening",
 		"description": "Instant Account Opening at SBI bank any Branch in India"
+		"services_offered": [
+				    "New Bank Account Opening,
+				    "Training on Digital Transaction",
+					"AEPS-Deposit",
+					"AEPS-Withdrawal",
+				],
+		"documents_required": [
+				    	"Aadhaar card with mobile no liked",
+						"PAN Card",
+				],
+		"door_step": false
    	},
    	{  
      		"id": 507,
       		"imageUrl":"http://csctumkur.com/cscapp/services/images/pmgdisha.jpg",
     		"title":"PMGDISHA",
-	   	"description": "Pradhan Mantri Gramin Digital Saksharta Abhiyan"
+	   	"description": "The Pradhan Mantri Gramin Digital Saksharta Abhiyan, a project launched under the Skill India scheme is an initiative that aims to impart digital literacy to rural citizens across the country. 
+		\n \n GOAL OF PMGDISHA
+		\n The project is expected to be one of the largest initiatives of the country with an overall target of training 6 crore students till the financial year, 2019. In order to be able to attain this large reach, the government has accepted 250,000 Gram Panchayats to register at least 200-300 candidates each. The ultimate aim is to span the gap between the rural and urban youth.
+		\n \n We are registered for Belagumba Gram Panchayat, if you are living in Belagumba panchayat area you can avail this free service offered through Digital Seva Kendra."
+		"services_offered": [
+				    "Computer Training,
+				],
+		"documents_required": [
+				    	"Aadhaar card",
+				],
+		"door_step": false
    	},
   	{  
       		"id": 508,
       		"imageUrl":"http://csctumkur.com/cscapp/services/images/itrfiling.jpg",
       		"title":"ITR Filing",
-		"description": "Income tax return (ITR) filing deadline extended upto 31-08-2018"
+		"description": "We offer ITR filing services for individuals and Income from business."
+		"services_offered": [
+				    "ITR Filing",
+				],
+		"door_step": false
    	},
    	{  
       		"id": 509,
       		"imageUrl":"http://csctumkur.com/cscapp/services/images/nps.jpg",
       		"title":"National Pension Scheme",
-	   	"description": "National Pension Scheme (NPS), a government-sponsored pension scheme"
+	   	"description": "National Pension System (NPS) is a pension cum investment scheme launched by Government of India to provide old age security to Citizens of India. It brings an attractive long term saving avenue to effectively plan your retirement through safe and regulated market-based return. The Scheme is regulated by Pension Fund Regulatory and Development Authority (PFRDA).National Pension System Trust (NPST) established by PFRDA is the registered owner of all assets under NPS.
+		\n Any individual citizen of India (both resident and Non-resident) in the age group of 18-65 years (as on the date of submission of NPS application) can join NPS.
+		\n you can register/Open your NPS account at Our Digital Seva Kendra
+		\n Upon successful enrolment, a Permanent Retirement Account Number (PRAN) is allotted to the subscriber under NPS. Once the PRAN is generated, an email alert as well as a SMS alert is sent to the registered email ID and mobile number of the subscriber by NSDL-CRA (Central Record Keeping Agency).Subscriber contributes periodically and regularly towards NPS during the working life to create the corpus for retirement. On retirement or exit from the scheme, the Corpus is made available to the Subscriber with the mandate that some portion of the Corpus must be invested in to Annuity to provide a monthly pension post retirement or exit from the scheme."
+		"services_offered": [
+				    "Opening of NPS Account",
+					"Collecting Contribution to NPS Account",
+				],
    	},
    	{  
       		"id": 5010,
       		"imageUrl":"http://csctumkur.com/cscapp/services/images/sevasindhu.jpg",
      		"title":"Seva Sindhu",
-		"description": "e-District services under NeGP (National e Governance Plan), with the Department of Information Technology "
+		"description": "Seva Sindhu (e District) is one of the 31 MMPs under NeGP (National e Governance Plan), with the Department of Information Technology (DIT), Government of India (GoI) as the nodal department, to be implemented by State Government or their designated agencies.The Seva Sindhu project was conceptualized to improve this experience and enhance the efficiencies of the various Departments at the district-level to enable seamless service delivery to the citizen.
+		\n 	Directorate of EDCS is the Nodal Agency in the State of Karnataka for implementation of the project at the State Level.As on date 346 services has been identified under various Departments to be integrated with Seva Sindhu. Out of these 71 are the National Mandatory Services and 225 are the State selected services. The Pilot Launch of Seva Sindhu was started on 26th May 2017 across the entire State of Karnataka with the integration of 29 certificate services from Revenue Department. 
+		\n 	Currently, 18 additional services from Food and civil supplies, Drugs control, Health and family welfare and planning departments are also integrated."
+		"services_offered": [
+				    "Revenue Department Certvices line, Caste Income Certificate, Residential Certificate, etc." ,
+					"Food and Civil Supply Services, New Ration card, Amendment, Etc.",
+				],
    	}
 ]
+
+
+
+
