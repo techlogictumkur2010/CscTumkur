@@ -136,6 +136,7 @@
 				    "Opening of NPS Account",
 					"Collecting Contribution to NPS Account"
 				],
+		"door_step": false
    	},
    	{  
       		"id": 5010,
