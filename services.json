@@ -9,7 +9,7 @@
 		"services_offered": [
 				    "New Pan Card",
 				    "Correction/Changes",
-				    "Duplicate/Lost PAN Card"
+				    "Duplicate PAN Card"
 				],
 		"documents_required": [
 				    	"Proof of Identity",
@@ -27,7 +27,7 @@
 		"convenience": 70,
 		"description": "The UIDAI collects the biometric and demographic details of all the citizens and is stored in a centralized UID (Unique Identification Number) database. The UIDAI issues a 12-digit unique identification number that is called Aadhaar Card to Indian citizens. \n Once the Enrolment or Modification done by any Authorised Aadhaar Enrolment Centres/Banks/Post-offices etc. It will take couple of days to approve your Aadhaar / changes. \n You can visit our Digital Seva Kendra to check the status at free of cost and once Aadhaar generated successfully you can get eAadhaar print here with good quality and best price.",
 		"services_offered": [
-				    "Check Status of Enrolment/Update",
+				    "Status of Enrolment/Update",
 				    "Download and print eAadhaar"
 				],
 		"documents_required": [
@@ -43,10 +43,13 @@
 		"description": "Are you looking for Latest Job Opportunities  to apply online to Get Central & State Govt Jobs. Notification of all Government Jobs , latest Govt vacancies across India updated frequently at Digital Seva Kendra. Upcoming vacancies across States in various sectors like Banking , Government, Defence, Railway, Teaching, Financial Institutions, Colleges, Universities & Schools, SSC, UPSC, KPSC, Agriculture, Karnataka Police, Navy and many more. \n You may Apply here for any online Job application. Get Register with Digital Seva Kendra for SMS notification, if any notification releases for your qualification we try to reach you with latest information regarding job opportunities.",
 		"services_offered": [
 				    "Online Application Submission",
-				    "Admission Letter/Call Letter Printout"
+				    "Admission Letter Printout"
 				],
 		"documents_required": [
-				    	"All Original educational Qualification certificates, Photo, Caste Income certificate, Study Certificate etc...  "
+				    	"educational Qualification certificates",
+					"Photo",
+					"Caste Income certificate", 
+					"Study Certificate etc.."
 				],
 		"door_step": false
 	},
@@ -56,15 +59,15 @@
 		"title":"Ration card Apply",
 		"description": "We are offering e Services of Department of Food and Civil Supplies services you may apply APL/BPL Ration card for any location in Karnataka State.",
 		"services_offered": [
-				    "New Ration Card APL/BPL",
-				    "Addition/Deletion/Update/Amendment of Existing Ration Card",
+				    	"New Ration Card APL/BPL",
+				    	"Addition/Deletion APL/BPL Card",
 					"Aadhaar Linking",
 					"Issue of Food Coupon",
 					"Ration Card Status"
 				],
 		"documents_required": [
-				    	"Aadhaar card for All Family Members",
-					"Caste and Income Certificate for head of family"
+				    	"Aadhaar card",
+					"Caste and Income Certificate"
 				],
 		"door_step": false
 	},
