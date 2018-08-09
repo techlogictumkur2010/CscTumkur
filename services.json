@@ -154,12 +154,12 @@
    	},
 	   	{  
       		"id": 511,
-      		"imageUrl":"http://csctumkur.com/cscapp/services/images/sevasindhu.jpg",
-     		"title":"Seva Sindhu",
-		"description": "Seva Sindhu (e District) is one of the 31 MMPs under NeGP (National e Governance Plan), with the Department of Information Technology (DIT), Government of India (GoI) as the nodal department, to be implemented by State Government or their designated agencies.The Seva Sindhu project was conceptualized to improve this experience and enhance the efficiencies of the various Departments at the district-level to enable seamless service delivery to the citizen. \n 	Directorate of EDCS is the Nodal Agency in the State of Karnataka for implementation of the project at the State Level.As on date 346 services has been identified under various Departments to be integrated with Seva Sindhu. Out of these 71 are the National Mandatory Services and 225 are the State selected services. The Pilot Launch of Seva Sindhu was started on 26th May 2017 across the entire State of Karnataka with the integration of 29 certificate services from Revenue Department. \n 	Currently, 18 additional services from Food and civil supplies, Drugs control, Health and family welfare and planning departments are also integrated.",
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/bbps.jpg",
+     		"title":"Bharat Bill Payment System",
+		"description": "The first of its kind bill payment system in India is here to change the way bills are being paid. Bringing a revolution in India's bill payment market, Bharat BillPay enables every citizen to pay their different bills under the same window. This unified ecosystem brings banks, non-banks like ecommerce portals and online payment platforms under one roof as its official operational units for bill collections.",
 		"services_offered": [
-				    "Revenue Department Certvices line, Caste Income Certificate, Residential Certificate, etc." ,
-					"Food and Civil Supply Services, New Ration card, Amendment, Etc."
+				    "Recharges",
+					  "Bill Payments."
 				],
 		"door_step": false
    	}
