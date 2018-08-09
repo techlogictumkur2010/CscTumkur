@@ -162,5 +162,191 @@
 					  "Bill Payments."
 				],
 		"door_step": false
+   	},
+	   	{  
+      		"id": 512,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/bhim.jpg",
+     		"title":"BHIM",
+		"description": "The rural & urban India requires awareness on digital economy, digital financial transactions, details about the Government’s policies which would provides them an opportunity to come to the mainstream economy and move towards cashless economy. \nBharat Interface for Money (BHIM) is an app that lets you make simple, easy and quick payment transactions using Unified Payments Interface (UPI). You can easily make direct bank to bank payments instantly and collect money using just Mobile number or Payment address.\nVLEs will train the Merchants on BHIM App and will tell them the benefits of the BHIM App. After training the merchants, VLEs will install BHIM App on their mobiles and will link their respective bank account with BHIM App.",
+		"services_offered": [
+				    "Instalaltion",
+				    "Training",
+					  "QR Code Standee"
+				],
+		"door_step": false
+   	},
+	   	{  
+      		"id": 513,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/digilocker.jpg",
+     		"title":"Digi Locker",
+		"description": "Targeted at the idea of paperless governance, DigiLocker is a platform for issuance and verification of documents & certificates in a digital way, thus eliminating the use of physical documents. Indian citizens who sign up for a DigiLocker account get a dedicated cloud storage space that is linked to their Aadhaar (UIDAI) number. Organizations that are registered with Digital Locker can push electronic copies of documents and certificates (e.g. driving license, Voter ID, School certificates) directly into citizens lockers. Citizens can also upload scanned copies of their legacy documents in their accounts. These legacy documents can be electronically signed using the eSign facility. \n\nThe platform has the following benefits:\nCitizens can access their digital documents anytime, anywhere and share it online. This is convenient and time saving.\nIt reduces the administrative overhead of Government departments by minimizing the use of paper.\nDigital Locker makes it easier to validate the authenticity of documents as they are issued directly by the registered issuers.\n Self-uploaded documents can be digitally signed using the eSign facility (which is similar to the process of self-attestation).",
+		"services_offered": [
+				    "Training"
+				],
+		"door_step": false
+   	},
+	   	{  
+      		"id": 514,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/digipay1.jpg",
+     		"title":"AEPS - Digipay",
+		"description": "AEPS is a bank led model which allows online interoperable financial transaction at PoS (Point of Sale / Micro ATM) through the CSC Center using the Aadhaar authentication",
+		"services_offered": [
+				    "Balance Enquiery",
+				    "Deposits",
+				    "Withdrawal",
+					  "Transfer"
+				],
+		"door_step": false
+   	},
+	   	{  
+      		"id": 515,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/epfo.jpg",
+     		"title":"EPFO Services",
+		"description": "Employees' Provident Fund Organisation",
+		"services_offered": [
+				    "EKYC Documents upload",
+					  "Online Clime"
+				],
+		"door_step": false
+   	},
+	   	{  
+      		"id": 516,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/fastag.jpg",
+     		"title":"Bharat Bill Payment System",
+		"description": "Toll Collection (ETC) / FASTTAG aims to eliminate the delay on toll roads by collecting tolls electronically. ETC determines whether the cars passing are enrolled in the program, alerts enforcers for those that are not, and electronically debits the accounts of registered car owners without requiring them to stop. \n\nElectronic toll collection has facilitated the concession to the private sector of the construction and operation of urban freeways. Also, it has made feasible the improvement and the practical implementation of road congestion pricing schemes in a limited number of urban areas to restrict auto travel in the most congested area. \n\nFASTag is a simple to use, reloadable tag which enables automatic deduction of toll charges and lets you pass through the toll plaza without stopping for the cash transaction. FASTag is linked to a prepaid account from which the applicable toll amount is deducted. The tag employs Radio-frequency Identification (RFID) technology and is affixed on the vehicle's windscreen after the tag account is active.",
+		"services_offered": [
+				    "Fastag Registration",
+					  "Recharges"
+				],
+		"door_step": false
+   	},
+	   	{  
+      		"id": 517,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/fssai.jpg",
+     		"title":"Bharat Bill Payment System",
+		"description": "The Food Safety and Standards Authority of India (FSSAI) has been established under Food Safety and Standards , 2006 which consolidates various acts & orders that have hitherto handled food related issues in various Ministries and Departments. FSSAI has been created for laying down science based standards for articles of food and to regulate their manufacture, storage, distribution, sale and import to ensure availability of safe and wholesome food for human consumption.",
+		"services_offered": [
+				    "FSSAI Apply",
+				    "Payment",
+					  "Certificates Print"
+				],
+		"door_step": false
+   	},
+	   	{  
+      		"id": 518,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/iffcotokio.jpg",
+     		"title":"IFFCO-TOKIO Vehicle Insurance",
+		"description": "WHY BUY POLICY FROM IFFCO TOKIO?\n TRUSTED BRAND\nBeing one of the best general insurance company in India for over 15 years, we have acquired millions of loyal customers, built on our reputation for providing quality service delivery.\n\nTRANSPARENCY IN SERVICES\nTransparency is an important aspect of choosing a general insurance company online with effective products, which is why we encourage our customers to do their due diligence.\n\nEASE OF BUYING\nOur products are available across a multi-channel network including offline channels like agents, brokers and branches, and online through our own and our partners’ websites.\n\nCLAIMS SETTLEMENT\nOur claims settlement process is prompt, efficient and painless, designed to fully assist you in your hour of need and without any unnecessary delays.",
+		"services_offered": [
+				    "Vehicle Insurance",
+					  "Renewal."
+				],
+		"door_step": false
+   	},
+	   	{  
+      		"id": 519,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/insurance.jpg",
+     		"title":"Star Health Insurance",
+		"description": "Why Choose Us?\nUnder a decade, we have progressed by leaps and bounds. With a nation-wide customer base to boast off, we have raised the benchmark of the health insurance sector. Every successful story has been a stepping stone that has made us one of India's trusted specialist in health insurance with quality service at the best rates for customers from all backgrounds.\n\nHighlights:\nIndia’s First Stand-Alone Health Insurance Company\nPan India Presence With More Than 430+ Branch Offices\nCashless Hospitalization And Reimbursement Facility In Our Large Network Base With More Than 8400+ Hospitals Across India\nHassle-free and customer-friendly direct claim settlement without intervention of TPA\nW.H.O Award Of Excellence 2017 from the former Honorable President of India Shri Pranab Mukherjee\nBest Health Insurance Provider Of The Year - Business Today, Money Today Financial Awards 2016-2017\nWide Range Of Health Insurance Products From Family Floater Schemes To Senior Citizen Health Coverage\nPersonalised Doctor Visit For All Customers Getting Hospitalised",
+		"services_offered": [
+		        "Policy Advice",
+				    "Health Insurance",
+					  "Renewal"
+				],
+		"door_step": false
+   	},
+	   	{  
+      		"id": 520,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/irctc.jpg",
+     		"title":"Bharat Bill Payment System",
+		"description": "Indian Railway Catering and Tourism Corporation (IRCTC) is a subsidiary of the Indian Railways that handles the catering, tourism and online ticketing operations of the Indian railways. .\n\nOnline ticketing\nIt is known for changing the face of railway ticketing in India. It pioneered internet-based rail ticket booking through its website, as well as from the mobile phones via WiFi, GPRS or SMS. It also provides SMS facility to check PNR status and Live Train Status as well. In addition to e-tickets, Indian Railways Catering and Tourism Corporation also offers I-tickets that are basically like regular tickets except that they are booked online and delivered by post.\n\nCSC partnered with IRCTC as an authorised booking center to provide online booking services of IRCTC",
+		"services_offered": [
+				    "Online Train Booking"
+				],
+		"door_step": false
+   	},
+	   	{  
+      		"id": 521,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/jeevanpraman.jpg",
+     		"title":"Jeevan Pramaan Digital Life Certificate",
+		"description": "Jeevan Pramaan is a biometric enabled digital service for pensioners. Pensioners of Central Government, State Government or any other Government organization can take benefit of this facility. \nGet Jeevan Pramaan Certificate through our Digital seva Kendra which are being operated by CSC. ",
+		"services_offered": [
+				    "Issue of Jeevan Praman"
+				    ],
+		"door_step": false
+   	},
+	   	{  
+      		"id": 522,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/jnv.jpg",
+     		"title":"JNV Navodaya Entrance Exam",
+		"description": "The Navodaya Vidyalaya Samiti has invited the JNVST  Admission selection test application registration through online for 6th Class and the submission or registration of an application made available only through CSC center only. \nWe Common Services Centers (CSCs) are running under Ministry of Electronics and Information Technology, Government of India in Digital India programme.",
+		"services_offered": [
+				    "Online Applications",
+					  "Admission Ticket",
+					  "Selection List"
+				],
+		"door_step": false
+   	},
+	   	{  
+      		"id": 523,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/lic.jpg",
+     		"title":"LIC Policy Premium Payment/Renewal",
+		"description": "LIC Alternate Channels of Premium Collection\nWe are the outorised premium payment collection center to collect premium and issuing receipt on behalf of LIC to Policy holder ",
+		"services_offered": [
+				    "Premium Collection"
+				    ],
+		"door_step": false
+   	},
+	   	{  
+      		"id": 524,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/mahindrafinance.jpg",
+     		"title":"EMI Collection for Mahindra Finance",
+		"description": "Mahindra Rural Housing Finance Limited, a subsidiary of Mahindra and Mahindra Financial Services Limited, has been established to provide Home Loans primarily in rural areas. We are autoried to collect EMI’s for existing home loan customers.",
+		"services_offered": [
+				    "EMI Payment Collection"
+				],
+		"door_step": false
+   	},
+	   	{  
+      		"id": 525,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/pmay.jpg",
+     		"title":"Pradhan Mantri Awas Yojana",
+		"description": "The Mission will be implemented during 2015-2022 and will provide central assistance to Urban Local Bodies (ULBs) and other implementing agencies through States/UTs for: \n1. In-situ Rehabilitation of existing slum dwellers using land as a resource through private participation \n2. Credit Linked Subsidy \n3. Affordable Housing in Partnership \n4. Subsidy for Beneficiary-led individual house construction/enhancement. \nCredit linked subsidy component will be implemented as a Central Sector Scheme while other three components will be implemented as Centrally Sponsored Scheme (CSS).\n\n You can apply this schement at Our Digital Seva kendra",
+		"services_offered": [
+				    "online Application"
+				],
+		"door_step": false
+   	},
+	   	{  
+      		"id": 526,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/ujala.jpg",
+     		"title":" UJALA EESL subsidized 9W LED Bulb",
+		"description": "On 5th January 2015, Hon’ble Prime Minister, Shri Narendra Modi launched the National Programme for Energy Efficient Appliances. This opened doors for boosting the entire market and worked in tandem with the larger aim of cutting emissions significantly.\n\nUnder the scheme, we also distribute 20W LED tube lights and BEE 5-star rated energy efficient fans to the consumers. We are distributing 20W LED tube lights that are 50% more energy efficient than conventional 40W tube lights and are available for Rs. 220/- per tube, as against the market price of Rs. 400-600. We have also revolutionized the fan market in India by providing energy efficient fans under the UJALA scheme that come with a BEE 5 Star rating. These ceiling fans are rated 30% more energy efficient than conventional fans and are priced at Rs. 1200/- per fan.",
+		"services_offered": [
+				    "9w Bulb Sales"
+				],
+		"door_step": false
+   	},
+	   	{  
+      		"id": 527,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/wifichoupal.jpg",
+     		"title":"Wifi Choupal",
+		"description": "Rural India Wi-FI - Availability of Internet for Indian Villages. To realize the vision of Digital India, Wi-Fi Choupal is an ambitious initiative of CSC e-Governance services India Limited with the mission to transform India by providing seamless Internet connectivity in rural panchayats.\nWi-Fi Choupal aims to connect 2.5 lakh Gram Panchayats in the country through highly scalable network infrastructure i.e. optical fibre cable. At present 7000 GPs of the country are in place with Wi-Fi infrastructure CSC Wi-Fi Choupal is in the process of expanding this infrastructure in additional GPs of the country.",
+		"services_offered": [
+				    "Customer Registration",
+					  "Coupon Recharges"
+				],
+		"door_step": false
+   	},
+	   	{  
+      		"id": 511,
+      		"imageUrl":"http://csctumkur.com/cscapp/services/images/bbps.jpg",
+     		"title":"csc Telemedicine",
+		"description": "healthcare available to more than 1,00,000 CSC centres using the telemedicine platform under its Rural Connect",
+		"services_offered": [
+				    "Video Consulation",
+					  "Medicine Booking"
+				],
+		"door_step": false
    	}
 ]
